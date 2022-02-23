@@ -17,4 +17,4 @@ From the left panel click on Modules. You will need to import those three module
 Az.Accounts
 Az.ResourceGraph
 Az.Resources
-Create a schedules, to have the script executed every morning. Click on the Schedules from the left panel. Select the frequency you like, and save it.
+Create a schedules, to have the script executed every day. Click on the Schedules from the left panel. Select the frequency you like, and save it.
